@@ -1,0 +1,14 @@
+<html>
+  <body>
+    <div class="col-md-6"><!--image holder with 6 grid columns-->
+        <img src="images/wedding2.jpg" class="img-responsive">
+    </div>
+    <div class="subcontent col-md-6">
+    <h1>Wedding</h1>
+    <p>
+    The most important day in a couple's life.
+    Guaranteeing personalized solutions and flawless execution, our venues provide the perfect
+    location for your special day.
+    </p>
+  </body>
+</html>
